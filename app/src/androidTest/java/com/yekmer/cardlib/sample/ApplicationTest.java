@@ -1,4 +1,4 @@
-package com.yekmer.cardlib;
+package com.yekmer.cardlib.sample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

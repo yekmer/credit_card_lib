@@ -1,7 +1,10 @@
-package com.yekmer.cardlib;
+package com.yekmer.cardlib.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.yekmer.cardlib.CreditCardEditText;
+import com.yekmer.cardlib.OtherCardTextWatcher;
 
 /**
  * Created by yekmer
