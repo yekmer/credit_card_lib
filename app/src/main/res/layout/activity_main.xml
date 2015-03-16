@@ -21,6 +21,7 @@
         android:paddingLeft="@dimen/inside_card_margin"
         android:paddingRight="@dimen/inside_card_margin"
         android:layout_margin="@dimen/input_field_side_margin"
+        android:imeOptions="actionNext"
         android:inputType="phone"/>
 
     <LinearLayout
@@ -33,7 +34,7 @@
             android:layout_height="wrap_content"
             android:lines="1"
             android:maxLines="1"
-            android:maxLength="19"
+            android:maxLength="5"
             android:singleLine="true"
             android:background="@drawable/bg_card"
             android:padding="@dimen/input_field_side_margin"
@@ -53,7 +54,7 @@
             android:layout_height="wrap_content"
             android:lines="1"
             android:maxLines="1"
-            android:maxLength="19"
+            android:maxLength="4"
             android:singleLine="true"
             android:background="@drawable/bg_card"
             android:padding="@dimen/input_field_side_margin"
